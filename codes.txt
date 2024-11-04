@@ -1,0 +1,20 @@
+git clone
+
+
+for adding new files:
+
+git status
+git add ./ or git add filename
+git status
+git commit -m "meassage"
+git push origin branchName
+
+
+
+for creating new branch
+
+git checkout -b branchName
+
+for switch:
+
+git checkout branchName
