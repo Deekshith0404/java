@@ -1,0 +1,87 @@
+package com.xworkz.TheRunner;
+
+import com.xworkz.inheritence.examp2.*;
+
+public class Example2 {
+    public static void main(String[] args) {
+        Bowler bow=new Bowler();
+        System.out.println("--------------------");
+        CricketPlayer cri=new Bowler();
+        System.out.println("---------------------");
+        NationalPlayer nan=new Bowler();
+        System.out.println("-----------------------");
+        StatePlayer sta=new Bowler();
+        System.out.println("-----------------------");
+        Player pla=new Bowler();
+        System.out.println("-----------------------");
+        GovtEmployee gov=new Bowler();
+        System.out.println("-----------------------");
+        Employee emp=new Bowler();
+        System.out.println("------------------------");
+        Person per=new Bowler();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        CricketPlayer cri1=new CricketPlayer();
+        System.out.println("---------------------");
+        NationalPlayer nan1=new CricketPlayer();
+        System.out.println("-----------------------");
+        StatePlayer sta1=new CricketPlayer();
+        System.out.println("-----------------------");
+        Player pla1=new CricketPlayer();
+        System.out.println("-----------------------");
+        GovtEmployee gov1=new CricketPlayer();
+        System.out.println("-----------------------");
+        Employee emp1=new CricketPlayer();
+        System.out.println("------------------------");
+        Person per1=new CricketPlayer();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        NationalPlayer nan2=new NationalPlayer();
+        System.out.println("-----------------------");
+        StatePlayer sta2=new NationalPlayer();
+        System.out.println("-----------------------");
+        Player pla2=new NationalPlayer();
+        System.out.println("-----------------------");
+        GovtEmployee gov2=new NationalPlayer();
+        System.out.println("-----------------------");
+        Employee emp2=new NationalPlayer();
+        System.out.println("------------------------");
+        Person per2=new NationalPlayer();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        StatePlayer sta3=new StatePlayer();
+        System.out.println("-----------------------");
+        Player pla3=new StatePlayer();
+        System.out.println("-----------------------");
+        GovtEmployee gov3=new StatePlayer();
+        System.out.println("-----------------------");
+        Employee emp3=new StatePlayer();
+        System.out.println("------------------------");
+        Person per3=new StatePlayer();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        Player pla4=new Player();
+        System.out.println("-----------------------");
+        GovtEmployee gov4=new Player();
+        System.out.println("-----------------------");
+        Employee emp4=new Player();
+        System.out.println("------------------------");
+        Person per4=new Player();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        GovtEmployee gov5=new GovtEmployee();
+        System.out.println("-----------------------");
+        Employee emp5=new GovtEmployee();
+        System.out.println("------------------------");
+        Person per50=new GovtEmployee();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        Employee emp6=new Employee();
+        System.out.println("------------------------");
+        Person per6=new Employee();
+        System.out.println("-------------------------");
+        System.out.println("-------------------------");
+        Person per7=new Person();
+
+    }
+}
