@@ -10,7 +10,7 @@ public class ZooRunner {
         try {
             zooBooker.buyTicket(zooBookingDto);
         } catch (TicketBookingException e) {
-            throw new RuntimeException(e);
+            System.err.println("error");
         }
 
 
