@@ -8,19 +8,19 @@ import java.util.Iterator;
 
 public class IplTeamRunner {
     public static void main(String[] args) {
-        IplTeamDto iplTeamDto=new IplTeamDto("Rcb",23,"United Sperits","Qatar airways",83);
-        IplTeamDto iplTeamDto1=new IplTeamDto("mi",22,"Reliance Industries","JIO",45);
-        IplTeamDto iplTeamDto2=new IplTeamDto("csk",23,"N.Srinivasan","Etihad Airways",55);
-        IplTeamDto iplTeamDto3=new IplTeamDto("RR",24,"Emerging media","TAT",41);
-        IplTeamDto iplTeamDto4=new IplTeamDto("KKR",25,"sharuk khan","ceat",51);
-        IplTeamDto iplTeamDto5=new IplTeamDto("PBKS",21,"Mohith burman","dream11",110);
-        IplTeamDto iplTeamDto6=new IplTeamDto("SRH",20,"Kalanithi maran","dream11",45);
-        IplTeamDto iplTeamDto7=new IplTeamDto("GT",20,"CVC Capital Partners","Phonepay",69);
-        IplTeamDto iplTeamDto8=new IplTeamDto("DC",19,"GMR Group","paytm",73);
-        IplTeamDto iplTeamDto9=new IplTeamDto("LSG",22,"RPSG Group","muthoot",69);
+        IplTeamDto iplTeamDto = new IplTeamDto("Rcb", 23, "United Sperits", "Qatar airways", 83);
+        IplTeamDto iplTeamDto1 = new IplTeamDto("mi", 22, "Reliance Industries", "JIO", 45);
+        IplTeamDto iplTeamDto2 = new IplTeamDto("csk", 23, "N.Srinivasan", "Etihad Airways", 55);
+        IplTeamDto iplTeamDto3 = new IplTeamDto("RR", 24, "Emerging media", "TAT", 41);
+        IplTeamDto iplTeamDto4 = new IplTeamDto("KKR", 25, "sharuk khan", "ceat", 51);
+        IplTeamDto iplTeamDto5 = new IplTeamDto("PBKS", 21, "Mohith burman", "dream11", 110);
+        IplTeamDto iplTeamDto6 = new IplTeamDto("SRH", 20, "Kalanithi maran", "dream11", 45);
+        IplTeamDto iplTeamDto7 = new IplTeamDto("GT", 20, "CVC Capital Partners", "Phonepay", 69);
+        IplTeamDto iplTeamDto8 = new IplTeamDto("DC", 19, "GMR Group", "paytm", 73);
+        IplTeamDto iplTeamDto9 = new IplTeamDto("LSG", 22, "RPSG Group", "muthoot", 69);
 
 
-        Collection<IplTeamDto> collection=new ArrayList<>();
+        Collection<IplTeamDto> collection = new ArrayList<>();
 
         collection.add(iplTeamDto);
         collection.add(iplTeamDto1);
